@@ -1,0 +1,6 @@
+{
+  "latest_version": "v3.4.8.345",
+  "latest_build": 345,
+  "release_notes": "• Fixed template sizes and aspect ratios for movies and series loading placeholders\n• Seamless in-place updates with persistent signing\n• Direct internal APK download & background prompt install updates",
+  "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
+}
