@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.4.9.1",
-  "release_notes": "• CineStream player opens first for every server — web embed only as fallback\n• Auto-cycles embed servers (18s each) while the sniffer watches; ExoPlayer opens automatically on the first stream found\n• Background extraction keeps accumulating all resolutions and audio tracks while you watch\n• Mark-as-seen on playback, smoother rendering, in-app updater with native APK install",
+  "latest_version": "v3.4.9.2",
+  "release_notes": "• NEW: Player picker — CineStream Player (own player with all resolutions/audio) or any web embed, switchable during playback\n• Release-signed APK: installs over previous versions without uninstalling\n• All previous fixes included",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
