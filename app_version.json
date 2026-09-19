@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.4.9.3",
-  "release_notes": "CineStream v3.4.9.3 - New Home tab, config-server integration (dynamic players, ads, login gate, IPTV), resume-where-you-left-off with cloud sync",
+  "latest_version": "v3.4.9.4",
+  "release_notes": "CineStream v3.4.9.4 - Sync timing fix: cloud sync now runs once at startup and once at close/background only",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
