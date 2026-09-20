@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.4.9.12",
-  "release_notes": "CineStream v3.4.9.12 - Added Videasy direct AJAX extraction fallback (player-sources endpoint) for when Speedrace API is down, CineStream player fallback to web embed when extraction fails, laptop fullscreen mode",
+  "latest_version": "v3.4.9.13",
+  "release_notes": "CineStream v3.4.9.13 - Waiting Hai playback: Videasy direct AJAX extraction (Fade/HDMovie player-sources), auto-fallback to web embed when extraction finds nothing, laptop fullscreen mode. Note: Speedrace API (api.speedracelight.com) is currently returning 502 upstream - same host the videasy embed uses",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
