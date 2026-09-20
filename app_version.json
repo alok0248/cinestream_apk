@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.4.9.11",
-  "release_notes": "CineStream v3.4.9.11 - Laptop full-screen mode: fullscreen button in top bar, seamless side nav (no borders), edge-to-edge layout, Waiting Hai playback fix with web player fallback",
+  "latest_version": "v3.4.9.12",
+  "release_notes": "CineStream v3.4.9.12 - Added Videasy direct AJAX extraction fallback (player-sources endpoint) for when Speedrace API is down, CineStream player fallback to web embed when extraction fails, laptop fullscreen mode",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
