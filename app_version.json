@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.7.0.3",
-  "release_notes": "MovieIN fix: the backend moved from MP4 files to HLS streams behind its protected CDN — the on-device gateway now relays HLS manifests and segments through the MovieIn oracle so playback works again (audio languages come from the player's Audio menu).",
+  "latest_version": "v3.7.0.4",
+  "release_notes": "Oracle keep-alive: every time the app opens, CineStream checks the MovieIn sign service and auto-launches the MovieIn companion when it's down (returning you automatically when it's up). If the service can't start, a notification tells you and taps you back.",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
