@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.4.9.7",
-  "release_notes": "CineStream v3.4.9.7 - Fullscreen follows device orientation when auto-rotate is on",
+  "latest_version": "v3.4.9.8",
+  "release_notes": "CineStream v3.4.9.8 - CineStream player playback fixes: extraction sources now play (native CORS-free loader for every server), live playback is never displaced by background extraction, referer-authenticated streams for Speedrace/Fade and legacy providers, truthful health probes, reliable error-hop between sources",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
