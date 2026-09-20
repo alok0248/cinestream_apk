@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.7.0.2",
-  "release_notes": "First-run MovieIN setup: a one-tap onboarding screen installs and opens the MovieIn companion so MovieIN playback works from the first launch. Also fixes the version check (the app no longer asks for updates it already has).",
+  "latest_version": "v3.7.0.3",
+  "release_notes": "MovieIN fix: the backend moved from MP4 files to HLS streams behind its protected CDN — the on-device gateway now relays HLS manifests and segments through the MovieIn oracle so playback works again (audio languages come from the player's Audio menu).",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
