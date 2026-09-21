@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.7.0.7",
-  "release_notes": "Player fixes and control: Player 8/9 moved to the live videasy domain (black screen fixed) and embeds are sandboxed so ad pop-ups can no longer open Chrome. Settings > Player now switches individual players on/off, extraction stops as soon as a playable link is found, the app no longer hops players by itself, and TV show pages keep the player and season/episode controls within reach on phone, tablet, laptop and TV. MovieIN playback now relays through the fixed on-device engine route.",
+  "latest_version": "v3.7.0.8",
+  "release_notes": "MovieIN playback fixed end to end: the player can now reach the native oracle bridge (setup screen no longer asks you to install the companion when it is already installed), stream relay delivers full segments again instead of empty ones, and the MovieIn engine is visible/openable on Android 11+ so keep-alive and one-tap activation work.",
   "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
