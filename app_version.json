@@ -1,4 +1,8 @@
 {
-  "latest_version": "v3.7.0.11",
-  "release_notes": "CineStream v3.7.0.11 - Player 8/9 (videasy) fixes: stale-seed auto-retry on API 5xx, fallback player row now shows ALL players, resilient CORS relay chain for the web build. Speedrace API outage recovery verified live (Waiting Hai S1E1 Fade/Hindi + Yoru sources decode correctly)."
+  "latest_version": "v3.8.0.0",
+  "release_notes": "CineStream v3.8.0.0 - NEW: MovieIN oracle extraction! Direct m3u8 episode streams for movies and TV shows via the MovieIN signed API (730-sign replay table + AES-CBC decrypt + gzip). Plays through the CineStream/Exo player with resolution + audio menus. Runs alongside Speedrace as a first-class provider.",
+  "min_version": "v3.4.0.0",
+  "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
+  "apk_size_mb": 0,
+  "updated_at": "2026-09-22"
 }
