@@ -1,7 +1,7 @@
 {
-  "latest_version": "v3.8.0.2",
+  "latest_version": "v3.8.0.3",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "Pinned top bar + player on detail page (no more scrolling away), calendar SVG chevron icons, player-list show/hide + default player settings, CineStream sticky playback fix",
+  "release_notes": "Fixed calendar button not opening (menu was clipped by the top bar), calendar chevron icons, pinned top bar + player on detail page, player-list show/hide + default player settings",
   "min_version": "v3.0.0",
   "mandatory": false
 }
