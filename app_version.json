@@ -1,5 +1,4 @@
 {
-  "latest_version": "v3.7.0.10",
-  "release_notes": "Standalone CineStream: the MovieIn companion is no longer bundled or auto-installed — the app plays straight from the webplayer extraction (Speedrace + providers) in the default CineStream player, with the optional MovieIN oracle used only when present. New Settings > Player toggle 'Auto-Extract from All Players' (ON keeps harvesting links from every player; OFF stops at the first playable link and resumes when you switch players).",
-  "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
+  "latest_version": "v3.7.0.11",
+  "release_notes": "CineStream v3.7.0.11 - Player 8/9 (videasy) fixes: stale-seed auto-retry on API 5xx, fallback player row now shows ALL players, resilient CORS relay chain for the web build. Speedrace API outage recovery verified live (Waiting Hai S1E1 Fade/Hindi + Yoru sources decode correctly)."
 }
