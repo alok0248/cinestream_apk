@@ -1,6 +1,6 @@
 {
-  "latest_version": "v3.8.0.0",
-  "release_notes": "CineStream v3.8.0.0 - NEW: MovieIN oracle extraction! Direct m3u8 episode streams for movies and TV shows via the MovieIN signed API (730-sign replay table + AES-CBC decrypt + gzip). Plays through the CineStream/Exo player with resolution + audio menus. Runs alongside Speedrace as a first-class provider.",
+  "latest_version": "v3.8.0.1",
+  "release_notes": "CineStream v3.8.0.1 - MovieIN oracle: fixed title search (real kw endpoint), verified live episode extraction (Bigg Boss S20E1-E3 direct m3u8), versionCode 10. Note: MovieIN signs are per-vod; coverage via bundled replay table. Install MovieIN companion for full-catalog live signs.",
   "min_version": "v3.4.0.0",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
   "apk_size_mb": 3.4,
