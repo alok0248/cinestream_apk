@@ -1,8 +1,7 @@
 {
-  "latest_version": "v3.8.0.1",
-  "release_notes": "CineStream v3.8.0.1 - MovieIN oracle: fixed title search (real kw endpoint), verified live episode extraction (Bigg Boss S20E1-E3 direct m3u8), versionCode 10. Note: MovieIN signs are per-vod; coverage via bundled replay table. Install MovieIN companion for full-catalog live signs.",
-  "min_version": "v3.4.0.0",
+  "latest_version": "v3.8.0.2",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "apk_size_mb": 3.4,
-  "updated_at": "2026-09-22"
+  "release_notes": "Pinned top bar + player on detail page (no more scrolling away), calendar SVG chevron icons, player-list show/hide + default player settings, CineStream sticky playback fix",
+  "min_version": "v3.0.0",
+  "mandatory": false
 }
