@@ -1,7 +1,7 @@
 {
-  "latest_version": "v3.8.0.3",
+  "latest_version": "v3.8.0.4",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "Fixed calendar button not opening (menu was clipped by the top bar), calendar chevron icons, pinned top bar + player on detail page, player-list show/hide + default player settings",
+  "release_notes": "Native ad blocker: ads/popups from the web players are now blocked at the network and navigation level, plus persistent popup traps inside the player iframes",
   "min_version": "v3.0.0",
   "mandatory": false
 }
