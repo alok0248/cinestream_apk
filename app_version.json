@@ -3,6 +3,6 @@
   "release_notes": "CineStream v3.8.0.0 - NEW: MovieIN oracle extraction! Direct m3u8 episode streams for movies and TV shows via the MovieIN signed API (730-sign replay table + AES-CBC decrypt + gzip). Plays through the CineStream/Exo player with resolution + audio menus. Runs alongside Speedrace as a first-class provider.",
   "min_version": "v3.4.0.0",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "apk_size_mb": 0,
+  "apk_size_mb": 3.4,
   "updated_at": "2026-09-22"
 }
