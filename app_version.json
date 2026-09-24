@@ -1,7 +1,7 @@
 {
-  "latest_version": "v3.8.0.5",
+  "latest_version": "v3.8.0.6",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "New MovieBox player: direct MovieBoxTV sources extracted first and played in the CineStream player (fixed WebView Referer/CORS handling on device). Per-player settings: quality, audio, subtitles, speed and buffer are now remembered separately for each player.",
+  "release_notes": "MovieBox Audio menu fixed: every title now lists its real dub languages (stub entries skipped). Separate audio: keep the current video quality and take the sound from another source or language. Orientation-aware layout (Auto/Portrait/Landscape in Settings) with compact landscape chrome. Cleaner human-readable resolution labels (1080p, 4K...).",
   "min_version": "v3.0.0",
   "mandatory": false
 }
