@@ -1,7 +1,7 @@
 {
-  "latest_version": "v3.8.0.4",
+  "latest_version": "v3.8.0.5",
   "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "Native ad blocker: ads/popups from the web players are now blocked at the network and navigation level, plus persistent popup traps inside the player iframes",
+  "release_notes": "New MovieBox player: direct MovieBoxTV sources extracted first and played in the CineStream player (fixed WebView Referer/CORS handling on device). Per-player settings: quality, audio, subtitles, speed and buffer are now remembered separately for each player.",
   "min_version": "v3.0.0",
   "mandatory": false
 }
