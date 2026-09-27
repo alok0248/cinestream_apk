@@ -1,5 +1,5 @@
 {
   "latest_version": "v3.8.1",
-  "release_notes": "v3.8.1 - STANDALONE: MovieBox, PikaShow, NetMirror and HD Streamz now play entirely on-device - no PC server needed. The app signs requests, runs sessions and resolves mirrors itself, exactly like the original apps. The PC core stays optional. Home and TV page unified rows still work with a PC connected.",
-  "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
+  "release_notes": "v3.8.1 - STANDALONE: MovieBox, PikaShow, NetMirror and HD Streamz now play entirely on-device - no PC server needed. The app signs requests, runs sessions and resolves mirrors itself, exactly like the original apps. The PC core stays optional. Home and TV page unified rows still work with a PC connected. Download: https://github.com/alok0248/cinestream_apk/releases/download/v3.8.1/app-release.apk (SHA-256 593312afba60c80d70cb3d93644b7e1109194b80888bf6abc86377e2b2a68d89). Install error? Uninstall any previous CineStream first.",
+  "apk_url": "https://github.com/alok0248/cinestream_apk/releases/download/v3.8.1/app-release.apk"
 }
