@@ -1,7 +1,5 @@
 {
-  "latest_version": "v3.8.0.7",
-  "apk_url": "https://github.com/alok0248/cinestream_apk/raw/refs/heads/main/app-release.apk",
-  "release_notes": "Home page: the trending carousel now sits at the top, with Continue Watching right below it. Everything else unchanged.",
-  "min_version": "v3.0.0",
-  "mandatory": false
+  "latest_version": "v3.8.0",
+  "release_notes": "v3.8.0 — Unified PC Sources: CineStream now plays MovieBox, PikaShow, NetMirror and HD Streamz through your PC (run 'python unified/server.py --port 8800' on the PC, then set the address in Settings > Sources). Home gains unified Movies/Series rails with instant play; the TV page gains Live TV channels and live Sports events with source filters. Everything else is unchanged: TMDB + Speedrace + MovieIN keep working exactly as before, standalone or with the PC connected.",
+  "apk_url": "https://raw.githubusercontent.com/alok0248/cinestream_apk/main/app-release.apk"
 }
